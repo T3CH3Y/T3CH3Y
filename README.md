@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T3CH3Y
+- 👋 Hi, GitHub! My name is Ben Zimmerman and my interest is in project management, devops, and machine vision :)
 Reach me at business@benzimmerman.org
 
 <!---
